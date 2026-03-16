@@ -1,0 +1,11 @@
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.deps.json
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.dll
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.pdb
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.AssemblyInfoInputs.cache
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.AssemblyInfo.cs
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.dll
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\refint\TextileOasis.Domain.dll
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.pdb
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Domain\obj\Debug\net8.0\ref\TextileOasis.Domain.dll
