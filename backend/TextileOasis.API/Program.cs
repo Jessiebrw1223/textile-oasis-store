@@ -73,7 +73,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 var app = builder.Build();
-
+app.Urls.Add("http://0.0.0.0:10000");
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

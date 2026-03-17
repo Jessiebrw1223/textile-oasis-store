@@ -13,3 +13,4 @@ C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-f
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Application\obj\Debug\net8.0\refint\TextileOasis.Application.dll
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.pdb
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Application\obj\Debug\net8.0\ref\TextileOasis.Application.dll
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.sourcelink.json

@@ -142,3 +142,4 @@ C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-f
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.API\obj\Debug\net8.0\TextileOasis.API.pdb
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.API\obj\Debug\net8.0\TextileOasis.API.genruntimeconfig.cache
 C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.API\obj\Debug\net8.0\ref\TextileOasis.API.dll
+C:\Users\Franco\Downloads\textile-oasis-suites-sale-ready\textile-oasis-suites-fixed-final\textile-oasis-suites-main-fixed\backend\TextileOasis.API\obj\Debug\net8.0\TextileOasis.API.sourcelink.json
